@@ -1,0 +1,10 @@
+{
+  "name": "reda-2018-mini-rts-sandbox",
+  "version": "0.1.0",
+  "description": "Browser prototype for unit movement, fog rules, and scripted skirmish loops.",
+  "author": "Red@",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/smoke.test.js"
+  }
+}
